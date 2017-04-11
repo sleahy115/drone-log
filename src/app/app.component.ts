@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { SebmGoogleMap, SebmGoogleMapMarker, SebmGoogleMapInfoWindow } from
+'angular2-google-maps/core';
 
 @Component({
   selector: 'app-root',
